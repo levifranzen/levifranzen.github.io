@@ -22,7 +22,7 @@ input::placeholder{
  } 
 
 body {
-  background: url(assets/images/background.png) no-repeat center center fixed;
+  background: url(../assets/css/images/bg.jpg) no-repeat center center fixed;
   background-size: cover;
   background-color: #0F4B55;
   justify-content: center;
